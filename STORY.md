@@ -121,7 +121,7 @@ MIT license. Everything. No exceptions.
 
 ## What I Actually Want
 
-I want a job in AI working on things that matter.
+I want a job working on things that matter.
 I want to keep building on this framework.
 I want to see what happens when the right people get their hands on it.
 

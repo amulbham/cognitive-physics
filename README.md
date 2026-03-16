@@ -77,7 +77,7 @@ They are the same framework at different levels of abstraction.
 
 I'm an AI Systems Architect. No formal research background.
 
-I built this over six months with carpal tunnel, job anxiety, and a $1,200/month apartment. Most of the breakthroughs happened on walks.
+I built this over six months. Most of the breakthroughs happened on walks.
 
 The genesis document — in `/genesis` — was written August 22, 2025. It already contained the seeds of everything here without me knowing it.
 
@@ -110,7 +110,7 @@ MIT. Everything here is free. Use it. Build on it. Tell me what you find.
 ## Contact
 
 GitHub: @amulbham
-LinkedIn: Amul Bham
+LinkedIn: https://www.linkedin.com/in/amul-bham/
 
 ---
 
